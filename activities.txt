@@ -1,0 +1,2 @@
+city walk	50.0	prince sultan st
+city walk	50.0	jeddah
